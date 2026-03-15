@@ -1,4 +1,6 @@
-# Hyderabad GIS Map
+# Hyderabad GIS Map 🗺️
+
+![Hyderabad GIS Map](hyderabad_city_map.png)
 
 This project presents a detailed Geographic Information System (GIS) map of Hyderabad city. 
 The map visualizes key urban infrastructure and spatial features using OpenStreetMap (OSM) data.
